@@ -11,6 +11,7 @@ int main()
     cout << "Hello!\n";
     cout << "Testing the Jira connection to github\n";
 	cout << "Push test\n testing 2\n";
+	cout << "TEST 3\n";
 	return 0;
 }
 
