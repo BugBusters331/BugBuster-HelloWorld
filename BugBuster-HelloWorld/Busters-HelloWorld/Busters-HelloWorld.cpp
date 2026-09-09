@@ -10,6 +10,8 @@ int main()
     cout << "Hello from Hayden!\n";
     cout << "Hello!\n";
     cout << "Testing the Jira connection to github\n";
+	cout << "Push test\n testing 2\n";
+	return 0;
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
