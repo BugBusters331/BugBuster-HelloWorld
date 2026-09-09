@@ -9,6 +9,7 @@ int main()
     cout << "Hello World!\n";
     cout << "Hello from Hayden!\n";
     cout << "Hello!\n";
+    cout << "Testing the Jira connection to github\n";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
